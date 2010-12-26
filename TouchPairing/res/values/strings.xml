@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TouchPairing</string>
+    <string name="install_kushikatsu">Install KuShiKaTsu</string>
+    <string name="install_touch_paring_to_remote">Install TouchPairing to remote</string>
+    <string name="request_pairing">Request Pairing</string>
+</resources>
